@@ -35,6 +35,7 @@ This list is based on the initial list compiled by [Alex Wallish](https://www.al
 |WillowTree|Cancelled||
 |Workday|Cancelled|Needs confirmation from others|
 |Yelp|Cancelled||
+|Glassdoor|Cancelled|Interview cancelled
 ||||
 ||||
 ||||
